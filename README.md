@@ -1,4 +1,6 @@
-download and run npm install setup the .env file for a MYSQL database and run php artisan serve
+download and run npm install 
+setup the .env file for a MYSQL database
+run php artisan serve
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
